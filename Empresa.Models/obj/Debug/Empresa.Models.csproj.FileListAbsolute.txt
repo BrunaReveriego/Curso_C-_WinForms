@@ -1,0 +1,6 @@
+C:\CURSO_C#\Empresa\Empresa.Models\bin\Debug\Empresa.Models.dll
+C:\CURSO_C#\Empresa\Empresa.Models\bin\Debug\Empresa.Models.pdb
+C:\CURSO_C#\Empresa\Empresa.Models\obj\Debug\Empresa.Models.csprojAssemblyReference.cache
+C:\CURSO_C#\Empresa\Empresa.Models\obj\Debug\Empresa.Models.csproj.CoreCompileInputs.cache
+C:\CURSO_C#\Empresa\Empresa.Models\obj\Debug\Empresa.Models.dll
+C:\CURSO_C#\Empresa\Empresa.Models\obj\Debug\Empresa.Models.pdb
